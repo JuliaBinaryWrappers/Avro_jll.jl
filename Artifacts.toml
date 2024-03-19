@@ -1,0 +1,143 @@
+[[Avro]]
+arch = "aarch64"
+git-tree-sha1 = "856e47cbceec8cbf5a6fae9457ee39f8898246ac"
+os = "macos"
+
+    [[Avro.download]]
+    sha256 = "87bef2c745db0dbd1e4d8b4073301e935341e0789f3187f0cd213cc77d0480ae"
+    url = "https://github.com/JuliaBinaryWrappers/Avro_jll.jl/releases/download/Avro-v1.11.3+0/Avro.v1.11.3.aarch64-apple-darwin.tar.gz"
+[[Avro]]
+arch = "aarch64"
+git-tree-sha1 = "98a237b9a37a301fd9b77409e4b76698a8e75045"
+libc = "glibc"
+os = "linux"
+
+    [[Avro.download]]
+    sha256 = "1202d394e0a8c102ecde4fd680809a7436c2614d06362c8d2aeb3d8beb56af38"
+    url = "https://github.com/JuliaBinaryWrappers/Avro_jll.jl/releases/download/Avro-v1.11.3+0/Avro.v1.11.3.aarch64-linux-gnu.tar.gz"
+[[Avro]]
+arch = "aarch64"
+git-tree-sha1 = "a8157c3966c35cbcf36c197106684ce905ea1eb6"
+libc = "musl"
+os = "linux"
+
+    [[Avro.download]]
+    sha256 = "507000d63c0b40cafdbd0b7c507f24f3ab445640e758e57ebcbfeb74a0af8e65"
+    url = "https://github.com/JuliaBinaryWrappers/Avro_jll.jl/releases/download/Avro-v1.11.3+0/Avro.v1.11.3.aarch64-linux-musl.tar.gz"
+[[Avro]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "e46d1c28baca1c807524b25c19baa51047216cee"
+libc = "glibc"
+os = "linux"
+
+    [[Avro.download]]
+    sha256 = "d09cc8468ec491b295c332ab847c8028aa2c7881c30b9c9e67b5851aab0234f7"
+    url = "https://github.com/JuliaBinaryWrappers/Avro_jll.jl/releases/download/Avro-v1.11.3+0/Avro.v1.11.3.armv6l-linux-gnueabihf.tar.gz"
+[[Avro]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "a8d0fd93a6c8bec9e1ab9af2a7b73cfb32990782"
+libc = "musl"
+os = "linux"
+
+    [[Avro.download]]
+    sha256 = "733243b18026ef2202f8ea9b2c382b8e779399f3e54fa098b0c3a892ba499cba"
+    url = "https://github.com/JuliaBinaryWrappers/Avro_jll.jl/releases/download/Avro-v1.11.3+0/Avro.v1.11.3.armv6l-linux-musleabihf.tar.gz"
+[[Avro]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "d7b673b760dc9fd750296f8e1378e3061c975a22"
+libc = "glibc"
+os = "linux"
+
+    [[Avro.download]]
+    sha256 = "99dee2729e2b8b87ed3a0d6e805927459e19997623d9a22507c7ca540eabb5e8"
+    url = "https://github.com/JuliaBinaryWrappers/Avro_jll.jl/releases/download/Avro-v1.11.3+0/Avro.v1.11.3.armv7l-linux-gnueabihf.tar.gz"
+[[Avro]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "f12398aaea83e65a4ce131e563bea11445b4a365"
+libc = "musl"
+os = "linux"
+
+    [[Avro.download]]
+    sha256 = "d48a13c92aa78ed82b3e2481da74931e6189c00b0a17bd01c96106d8e03bb0bc"
+    url = "https://github.com/JuliaBinaryWrappers/Avro_jll.jl/releases/download/Avro-v1.11.3+0/Avro.v1.11.3.armv7l-linux-musleabihf.tar.gz"
+[[Avro]]
+arch = "i686"
+git-tree-sha1 = "f3fc2c48d735982cd6dc26dc6c960bad6e731662"
+libc = "glibc"
+os = "linux"
+
+    [[Avro.download]]
+    sha256 = "33c37d35c53c075c85a34bb835dc0a09cadf2995f2d46f06c114f6611142a164"
+    url = "https://github.com/JuliaBinaryWrappers/Avro_jll.jl/releases/download/Avro-v1.11.3+0/Avro.v1.11.3.i686-linux-gnu.tar.gz"
+[[Avro]]
+arch = "i686"
+git-tree-sha1 = "8633c50ab44de72a8b267f8d8bd28851803a1a85"
+libc = "musl"
+os = "linux"
+
+    [[Avro.download]]
+    sha256 = "bf43f5649e5dd087aafa464877e964a08b7d4d928a11d9278d669cfaf2d1a1ed"
+    url = "https://github.com/JuliaBinaryWrappers/Avro_jll.jl/releases/download/Avro-v1.11.3+0/Avro.v1.11.3.i686-linux-musl.tar.gz"
+[[Avro]]
+arch = "i686"
+git-tree-sha1 = "f8aaadd77cd40266535ffb5128fcc7b06dcbdb32"
+os = "windows"
+
+    [[Avro.download]]
+    sha256 = "8e405118d589282bab76cb8a4edb6aa1910cb2476ada7dddbb4e1a7e9c45931d"
+    url = "https://github.com/JuliaBinaryWrappers/Avro_jll.jl/releases/download/Avro-v1.11.3+0/Avro.v1.11.3.i686-w64-mingw32.tar.gz"
+[[Avro]]
+arch = "powerpc64le"
+git-tree-sha1 = "247799b5958b5c9c9f9b0d43eb65c81258332bf1"
+libc = "glibc"
+os = "linux"
+
+    [[Avro.download]]
+    sha256 = "251b2a8ec794a4f89eff832ac88f616daeec359ddb334b89bd2eb5ddc7360ab3"
+    url = "https://github.com/JuliaBinaryWrappers/Avro_jll.jl/releases/download/Avro-v1.11.3+0/Avro.v1.11.3.powerpc64le-linux-gnu.tar.gz"
+[[Avro]]
+arch = "x86_64"
+git-tree-sha1 = "203d42acec5cc049d2774ff49914431409ffefef"
+os = "macos"
+
+    [[Avro.download]]
+    sha256 = "5d3ca0520034c94d80a22861a9aca3c3039e93292684d569ff85c9d703529b00"
+    url = "https://github.com/JuliaBinaryWrappers/Avro_jll.jl/releases/download/Avro-v1.11.3+0/Avro.v1.11.3.x86_64-apple-darwin.tar.gz"
+[[Avro]]
+arch = "x86_64"
+git-tree-sha1 = "fb08ab2932f2142dc982c10255435ab4fa8d18ea"
+libc = "glibc"
+os = "linux"
+
+    [[Avro.download]]
+    sha256 = "fed06ed1aeba1050be427f450697376b684c0a8a067cd4ef237fa2dd72514ed0"
+    url = "https://github.com/JuliaBinaryWrappers/Avro_jll.jl/releases/download/Avro-v1.11.3+0/Avro.v1.11.3.x86_64-linux-gnu.tar.gz"
+[[Avro]]
+arch = "x86_64"
+git-tree-sha1 = "956f93bf39e475e4a49825aea1962ea749e426d7"
+libc = "musl"
+os = "linux"
+
+    [[Avro.download]]
+    sha256 = "0b3b2a876d679ba418db33e541774a7a3e811e167ec5439c38a6b77c50c5fac8"
+    url = "https://github.com/JuliaBinaryWrappers/Avro_jll.jl/releases/download/Avro-v1.11.3+0/Avro.v1.11.3.x86_64-linux-musl.tar.gz"
+[[Avro]]
+arch = "x86_64"
+git-tree-sha1 = "4c70d302e2d78122ec974101799da3eae19943ec"
+os = "freebsd"
+
+    [[Avro.download]]
+    sha256 = "f19c0eaff0c0c2208544532b1419a19944e4b884cc13a5fdb00b8d9dc3e5b1ce"
+    url = "https://github.com/JuliaBinaryWrappers/Avro_jll.jl/releases/download/Avro-v1.11.3+0/Avro.v1.11.3.x86_64-unknown-freebsd.tar.gz"
+[[Avro]]
+arch = "x86_64"
+git-tree-sha1 = "4a0fcf844735133b5cbdef0fa5631e978de757ee"
+os = "windows"
+
+    [[Avro.download]]
+    sha256 = "07760261747b6c17efbf7024a3a8b3940498ad6583e47d61a6104fe6179b068b"
+    url = "https://github.com/JuliaBinaryWrappers/Avro_jll.jl/releases/download/Avro-v1.11.3+0/Avro.v1.11.3.x86_64-w64-mingw32.tar.gz"
